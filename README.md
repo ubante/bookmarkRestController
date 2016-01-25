@@ -5,7 +5,7 @@ I'm stuck.
 
 # Error
 
-'''
+```
 2016-01-22 14:57:55.664  INFO 51536 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1638 ms
 2016-01-22 14:57:55.876  INFO 51536 --- [ost-startStop-1] o.s.b.c.e.ServletRegistrationBean        : Mapping servlet: 'dispatcherServlet' to [/]
 2016-01-22 14:57:55.879  INFO 51536 --- [ost-startStop-1] o.s.b.c.embedded.FilterRegistrationBean  : Mapping filter: 'characterEncodingFilter' to: [/*]
@@ -54,4 +54,4 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 
 Process finished with exit code 1
 
-'''
+```
